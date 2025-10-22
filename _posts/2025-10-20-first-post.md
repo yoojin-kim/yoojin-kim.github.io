@@ -1,9 +1,12 @@
 ---
-title: 첫 글 게시
-date: 2025-10-20 20:00 (CET)
-categories: [github.io, post]
+title: "첫 글 게시"
+categories: [github.io]
 tags:
-[github.io, daily, commit]
+- [daily]
+
+toc: true
+toc_sticky: true
+date: 2025-10-20 20:00 (CET)
 ---
 
 
