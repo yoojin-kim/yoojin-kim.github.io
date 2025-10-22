@@ -1,6 +1,6 @@
 ---
 title: 첫 글 게시
-date: 2025-10-20 20:00 (ECT)
+date: 2025-10-20 20:00 (CET)
 categories: [github.io, post]
 tags:
 [github.io, daily, commit]
