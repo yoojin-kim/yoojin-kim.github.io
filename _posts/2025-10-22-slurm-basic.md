@@ -1,18 +1,12 @@
 ---
-title:  "ENV Setting (Slurm, Conda, Pytorch) "
-
+title:  "개발 환경 설정 (Slurm, Conda, Pytorch)"
 categories: [Thesis]
 tags:
 - [tud]
 
-img_path: /images/
 toc: true
 toc_sticky: true
-
 date: 2025-10-22 21:30
-
-<!-- This content will not appear in the rendered Markdown -->
-
 ---
 
 # Slurm Basic
@@ -48,7 +42,8 @@ After installation
 source /storage/athene/work/$username/miniconda3/bin/activate
 ```
 
-##Creating Conda Env and Install Pytorch
+##Creating Conda Env and Install Pytorch  
+
 ```bash
 conda create --name pytorch310 python=3.10
 conda activate pytorch310
