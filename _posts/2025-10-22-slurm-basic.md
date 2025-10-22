@@ -1,5 +1,5 @@
 ---
-title:  "개발 환경 설정 (Slurm, Conda, Pytorch)"
+title: "개발 환경 설정 (Slurm, Conda, Pytorch)"
 categories: [Thesis]
 tags:
 - [tud]
