@@ -11,7 +11,7 @@ date: 2025-10-22 21:30
 
 # Slurm Basic
 
-##connect to slurm
+## connect to slurm
 
 First you need :
 1. slurm account 
@@ -42,7 +42,7 @@ After installation
 source /storage/athene/work/$username/miniconda3/bin/activate
 ```
 
-##Creating Conda Env and Install Pytorch  
+## Creating Conda Env and Install Pytorch  
 
 ```bash
 conda create --name pytorch310 python=3.10
