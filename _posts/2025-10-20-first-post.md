@@ -1,8 +1,8 @@
 ---
 title: "첫 글 게시"
-categories: [github.io]
+categories: [Daily]
 tags:
-- [daily]
+- [github.io]
 
 toc: true
 toc_sticky: true
